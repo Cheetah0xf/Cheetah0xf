@@ -2,6 +2,11 @@
 # Hello!, I'm Cheetah, a newbie reverse engineer 👋🏼:
 
 
+<p align="center">
+  <img height="25" src="https://komarev.com/ghpvc/?username=Cheetah0xf&color=blueviolet" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/Cheetah0xf?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/Cheetah0xf?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cheetah0xf/)
